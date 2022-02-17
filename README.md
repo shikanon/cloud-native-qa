@@ -1,4 +1,8 @@
-# cloud-native-qa
+# Cloud Native QA
+
+[![GitHub license](https://img.shields.io/github/license/shikanon/cloud-native-qa)](https://github.com/shikanon/cloud-native-qa/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/shikanon/cloud-native-qa)](https://github.com/shikanon/cloud-native-qa/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/shikanon/cloud-native-qa)](https://github.com/shikanon/cloud-native-qa/network)
 
 云原生新手答疑Q&amp;A锦集
 
